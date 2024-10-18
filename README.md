@@ -1,5 +1,5 @@
 # 24174600130_Do_Minh_Duc_baitap
-Đây là file đã sửa
+Bài tập 2:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur, eros at lacinia 
 suscipit, magna turpis aliquam est, sit amet aliquam quam libero id mi. Ut vel placerat risus. 
 Sed tempor in ex vitae sodales. Donec et tempor orci. In pharetra viverra sagittis. Vestibulum 
